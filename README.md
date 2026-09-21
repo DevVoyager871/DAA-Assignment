@@ -1,1 +1,11 @@
-# DAA-Assignment
+ DAA-Assignment
+https://leetcode.com/problems/binary-search?q=704
+https://leetcode.com/problems/search-insert-position/
+https://leetcode.com/problems/search-a-2d-matrix/
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+https://leetcode.com/problems/find-peak-element/
+https://leetcode.com/problems/merge-sorted-array/
+https://leetcode.com/problems/sort-an-array?q=912
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+https://leetcode.com/problems/maximum-subarray/
+https://leetcode.com/problems/median-of-two-sorted-arrays?q=4
